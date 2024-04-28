@@ -32,3 +32,6 @@ An analysis comparing various machine learning optimization algorithms, includin
 - Convergence plots for SGD, Batch SGD, and SVD-aided optimizations.
 - Execution time comparisons for different algorithm configurations.
 - Dimensionality reduction impact on optimization performance.
+
+![Image Alt Text]()
+![Image Alt Text]()
