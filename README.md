@@ -1,10 +1,3 @@
-### Machine Learning Optimization Algorithms Comparison
-
-### Description:
-An analysis of machine learning optimization algorithms including Stochastic Gradient Descent (SGD), Batch Gradient Descent, and their variations with Singular Value Decomposition (SVD) for dimensionality reduction. Includes performance testing, execution time comparison, and visualization of algorithm convergence.
-
----
-
 # Machine Learning Optimization Algorithms Comparison
 
 An analysis comparing various machine learning optimization algorithms, including Stochastic Gradient Descent (SGD), Batch Gradient Descent, and their SVD-based counterparts for dimensionality reduction. The project includes performance testing and visualizations to evaluate algorithm convergence and efficiency.
