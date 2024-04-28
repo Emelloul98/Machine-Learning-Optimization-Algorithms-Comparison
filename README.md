@@ -33,5 +33,5 @@ An analysis comparing various machine learning optimization algorithms, includin
 - Execution time comparisons for different algorithm configurations.
 - Dimensionality reduction impact on optimization performance.
 
-![Image Alt Text]()
+![Image Alt Text](https://github.com/Emelloul98/Machine-Learning-Optimization-Algorithms-Comparison/blob/main/image2.png)
 ![Image Alt Text](https://github.com/Emelloul98/Machine-Learning-Optimization-Algorithms-Comparison/blob/main/image1.png)
